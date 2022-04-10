@@ -22,9 +22,9 @@ function Starter() {
             life.
           </p>
           <div className="button-container">
-            <Link to="/contact">
+            <Link to="/">
             <Button
-              content="Contact"
+              content="Button"
               icon={<HiOutlineArrowNarrowRight />}
             />
             </Link>
